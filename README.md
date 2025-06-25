@@ -23,4 +23,6 @@ Git / GitHub (controle de versão)
 
 Prompt Engineering (certificações DIO)
 
+Documentação dos projetos:
 
+Site Pessoal: https://github.com/igorluna06/Projetos-em-Destaques/blob/main/Documentação_Tecnica_IgorDev_Site_Pessoal.pdf
