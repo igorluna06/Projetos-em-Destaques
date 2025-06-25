@@ -23,6 +23,4 @@ Git / GitHub (controle de versão)
 
 Prompt Engineering (certificações DIO)
 
-Documentação de projetos:
 
-Site Pessoal: 
